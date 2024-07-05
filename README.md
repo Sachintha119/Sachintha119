@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/08/e5/97/08e597e1addb5f2aab9ae3ac4820b285.gif" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/98/d1/52/98d15203b251fd9a7f89fc1ce31e547a.png" alt="MasterHead">
 </p>
 <h1 align="center">Hi , I'm Sachintha Irushan Jayaweera</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
