@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/d1/52/98d15203b251fd9a7f89fc1ce31e547a.png" alt="MasterHead">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*uzVtquVT0jGfbNAf7Qc1UQ.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi , I'm Sachintha Irushan Jayaweera</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
-<p align="left"> <img src="https://i.pinimg.com/originals/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.png" alt="sachintha119" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachintha119&label=Profile%20views&color=0e75b6&style=flat" alt="sachintha119" /> 
 
 -  I’m currently learning **HTML, CSS, JavaScript, Python, C**
 
