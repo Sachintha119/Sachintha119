@@ -47,6 +47,5 @@
 <a href="https://discord.gg/https://discord.com/invite/sachintha0822_33391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/sachintha0822_33391" height="30" width="40" /></a>
 </p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/sachintha119/sachintha119/output/snake.svg" alt="Snake animation" />
+
